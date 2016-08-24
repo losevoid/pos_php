@@ -1,0 +1,56 @@
+body {
+    background-color: #554236;
+}
+
+h1 {
+    font-family: 'Poiret One';
+    background: #BDC0BA;
+}
+
+.item {
+    cursor: pointer;
+}
+
+#paybtn {
+    cursor: pointer;
+}
+
+img {
+    border-radius: 200px;
+    margin: 5px;
+}
+
+img:hover {
+    padding: 10px;
+    background: #47de9a;
+}
+
+div span {
+    margin: 1px;
+    font-size: 18px;
+    color: #00AA90;
+}
+
+#list div {
+    font-size: 1.2em;
+    border-bottom: 1px solid #BDC0BA;
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+
+#total {
+    font-size: 1.5em;
+    padding: 5px;
+    color: #69B0AC;
+}
+
+#paybtn {
+    font-size: 1.5em;
+    padding: 5px;
+    background-color: #69B0AC;
+    border-radius: 15px;
+}
+
+#paybtn:hover {
+    color: #ff0000;
+}
